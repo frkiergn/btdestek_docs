@@ -32,7 +32,9 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
         :target: https://btdestek.rumeli.edu.tr
 
 **Formlar:** Bilgi İşlem Daire Başkanlığı tarafından oluşturulmuş anket, talep veya formlar bulunmaktadır.
+
 **Destek Kayıtları:** Açılan destek kayıtları bu alanda görüntülenir.
+
 **SSS:** Bu alanda sizler için hazırlanmış olan rehber ve kullanım kılavuzları bulunur. 
 	**Ara:** Rehber ve kılavuzları aratır.
 **Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
