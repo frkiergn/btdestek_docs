@@ -53,7 +53,8 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
 Destek Talebi Açma
 ----------------
 Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için sayfanın sol tarafında bulunan menü üzerinden **“Destek kaydı aç”** seçeneğini tıklayın.
-..  figure:: Images/step-5.png
+
+..  figure:: Images/ticket/stage-1.png
     :width: 100%
     :align: center
 
@@ -77,6 +78,14 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
     - Talebinizi detaylı bir şekilde bu alanda açıklayabilirsiniz. Talebiniz hakkında fazla detay verebilirseniz ekibimiz talebiniz anlayabilir ve daha hızlı bir şekilde çözebilir.
     * - Oda numarası
     - Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
+
+..  figure:: Images/ticket/stage-2.png
+    :width: 80%
+    :align: center
+
+Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer eksik veya yanlış bir bilgi girildiyse talebiniz gönderilmez ve hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir sayfanın sağ altında bulunan bildirim görünür. Açılan destek talebiniz ayrıca e-posta olarak gönderilir.
+..  figure:: Images/ticket/stage-3.png
+    :align: center
 
 Memnuniyet Anketi Doldurma
 ----------------
