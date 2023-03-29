@@ -7,5 +7,4 @@ BTDestek Kullanıcı Rehberi
 
 .. toctree::
 
-   usage
-   api
+   rehber
