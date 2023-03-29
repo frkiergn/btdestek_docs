@@ -16,7 +16,7 @@ BTDestek Arayüzü
 
 BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır.
 ..  figure:: Images/menu.png
-        :align: center
+    :align: center
 
 **Açılış:** Açılan destek kayıtlarının özetini bu sayfada bulunur.
 
