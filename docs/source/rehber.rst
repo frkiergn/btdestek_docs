@@ -53,6 +53,37 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
 Destek Talebi Açma
 ----------------
 Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için sayfanın sol tarafında bulunan menü üzerinden **“Destek kaydı aç”** seçeneğini tıklayın.
+..  figure:: Images/step-5.png
+    :width: 100%
+    :align: center
+
+Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
+.. list-table::
+    :header-rows: 1
+    -Alan
+    -Açıklama
+    - Tür
+    -
+    - Kategori
+    -
+    - İlişkilendirilmiş ögeler
+    -
+    - Konum
+    -
+    - Başlık
+    -
+    - Açıklama
+    -
+    - Oda numarası
+    -
+
+    **Tür:** Talebinizin hangi türde olduğunu belirtir. Eğer bir donanımda sorun veya arıza ile karşılaştıysanız “arıza”. Kurulum, tanımlama ve talepler için “istek” olarak seçebilirsiniz.
+    **Kategori:** Destek talebinin donanım, internet, yazılım vb. alanında belirtir.
+    **İlişkilendirilmiş ögeler:** Üniversitemizin size tahsis etmiş olduğu ve etkilenen bilgisayar, monitör, telefon vb. cihazınızı seçebilirsiniz.
+    **Konum:** Destek talebi olarak bulunduğunuz yerleşkeyi belirtin.
+    **Başlık:** Talebiniz ne olduğunu tek cümle ile belirtebilirsiniz. Örnek: İnternet arızası
+    **Açıklama:** Talebinizi detaylı bir şekilde bu alanda açıklayabilirsiniz. Talebiniz hakkında fazla detay verebilirseniz ekibimiz talebiniz anlayabilir ve daha hızlı bir şekilde çözebilir.
+    **Oda numarası:** Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
 
 
 Memnuniyet Anketi Doldurma
@@ -68,7 +99,12 @@ Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan se
 Çıkan ekranda bulunan iki soruluk anketi cevapladıktan sonra (Notlar alanını doldurmak isteğe bağlıdır.)
 
 **1 yıldız:** Çök Kötü
+
 **2 yıldız:** Kötü
+
 **3 yıldız:** Ortalama
+
 **4 yıldız:** İyi
+
 **5 yıldız:** Çok İyi
+
