@@ -59,9 +59,10 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
 .. list-table:: Destek Talebi Alanları
+    :widths: 50 50
     :header-rows: 1
-    * -Alan
-    -Açıklama
+    * - Alan
+    - Açıklama
     * - Tür
     - Talebinizin hangi türde olduğunu belirtir. Eğer bir donanımda sorun veya arıza ile karşılaştıysanız “arıza”. Kurulum, tanımlama ve talepler için “istek” olarak seçebilirsiniz.
     * - Kategori
