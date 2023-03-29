@@ -162,7 +162,6 @@ Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. �
 Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan seçin.
 
 .. figure:: Images/ticket/stage-10.png
-   :width: 100%
    :align: center
 
 Çıkan ekranda bulunan iki soruluk anketi cevapladıktan sonra (Notlar alanını doldurmak isteğe bağlıdır.)
