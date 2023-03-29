@@ -16,7 +16,6 @@ BTDestek Arayüzü
 
 BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır.
 ..  figure:: Images/menu.png
-        :width: 80%
         :align: center
 
 **Açılış:** Açılan destek kayıtlarının özetini bu sayfada bulunur.
@@ -38,3 +37,10 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
 **SSS:** Bu alanda sizler için hazırlanmış olan rehber ve kullanım kılavuzları bulunur. 
 	**Ara:** Rehber ve kılavuzları aratır.
 **Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
+
+Destek Talebi Açma
+----------------
+Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için sayfanın sol tarafında bulunan menü üzerinden **“Destek kaydı aç”** seçeneğini tıklayın.
+
+Memnuniyet Anketi Doldurma
+----------------
