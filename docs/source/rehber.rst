@@ -7,9 +7,9 @@ Rumeli E-Posta Hesabıyla Giriş Yapma
 ------------
 
 BTDestek sistemine Rumeli hesabı (@rumeli.edu.tr) ile giriş yapmak için “Google ile Giriş Yap” seçeneğine tıkladıktan sonra eğer daha önce giriş yaptıysanız Rumeli e-posta hesabınızı eğer giriş yapmadıysanız e-posta ve şifreyi giriniz.
-..  image:: Images/login_edit.gif
-    :class: with-shadow
-    :scale: 50
+.. figure:: /Images/login_edit.gif
+   :width: 80%
+   :align: center
 
 BTDestek Arayüzü
 ----------------
