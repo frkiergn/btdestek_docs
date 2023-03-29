@@ -75,9 +75,7 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
     :width: 80%
     :align: center
 
-//////
-
-.. list-table:: Destek Kaydı Alanları
+.. list-table::
    :header-rows: 1
   * - Alan
     - Açıklama
