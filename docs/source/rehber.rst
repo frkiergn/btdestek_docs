@@ -90,7 +90,7 @@ Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklay
 ..  figure:: Images/ticket/stage-3.png
     :align: center
 
-Memnuniyet Anketi Doldurma
+Açılan Destek Talebini Görüntüleme ve Cevaplama
 ----------------
 
 Açılan destek talebini “Açılış” veya “Destek Kayıtları” üzerinden görüntüleyebilirsiniz.
@@ -100,19 +100,23 @@ Açılan destek talebini “Açılış” veya “Destek Kayıtları” üzerind
 
     *Açılış sayfasında bulunan destek kayıtları özet görünümü*
 
-Bakınız :ref:`Talep Durumları`
+Bakınız 
+:ref:`Talep Durumları`
 
 Destek talebinizi durumu ve açıklamalarını ve cevaplarını detaylı bir şekilde görüntülemek için sayfanın sol tarafında bulunan menüden “Destek kayıtları” seçeneğine tıklayın.
 
 ..  figure:: Images/ticket/stage-5.png
+    :width: 100%
     :align: center
 
 Görüntülemek istediğiniz destek kaydı başlık sütunundan seçin.
 
 ..  figure:: Images/ticket/stage-5-1.gif
+    :width: 100%
     :align: center
 
 ..  figure:: Images/ticket/stage-6-1.png
+    :width: 100%
     :align: center
 
         #. Talebinizin açıklaması ve veridiniz cevaplar mesaj alanın sol tarafında bulunur.
@@ -155,7 +159,7 @@ Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. �
 Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan seçin.
 
 .. figure:: Images/ticket/stage-11.png
-   :width: 80%
+   :width: 100%
    :align: center
 
 Çıkan ekranda bulunan iki soruluk anketi cevapladıktan sonra (Notlar alanını doldurmak isteğe bağlıdır.)
