@@ -8,7 +8,7 @@ Rumeli E-Posta Hesabıyla Giriş Yapma
 
 BTDestek sistemine Rumeli hesabı (@rumeli.edu.tr) ile giriş yapmak için “Google ile Giriş Yap” seçeneğine tıkladıktan sonra eğer daha önce giriş yaptıysanız Rumeli e-posta hesabınızı eğer giriş yapmadıysanız e-posta ve şifreyi giriniz.
 .. figure:: Images/login_edit.gif
-   :width: 80%
+   :width: 100%
    :align: center
 
 BTDestek Arayüzü
@@ -20,27 +20,40 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
 
 **Açılış:** Açılan destek kayıtlarının özetini bu sayfada bulunur.
 
-..  figure:: Images/menu.png
-        :width: 80%
+..  figure:: Images/step-2.png
+        :width: 100%
         :align: center
 
 **Destek Kaydı Aç:** İstek ve arıza için destek talebi açmanızı sağlar.
 
-..  figure:: Images/menu.png
-        :width: 80%
+..  figure:: Images/step-1.png
+        :width: 100%
         :align: center
 
 **Formlar:** Bilgi İşlem Daire Başkanlığı tarafından oluşturulmuş anket, talep veya formlar bulunmaktadır.
 
+..  figure:: Images/step-3.png
+        :width: 100%
+        :align: center
+
 **Destek Kayıtları:** Açılan destek kayıtları bu alanda görüntülenir.
 
+..  figure:: Images/step-4.png
+        :width: 100%
+        :align: center
+
 **SSS:** Bu alanda sizler için hazırlanmış olan rehber ve kullanım kılavuzları bulunur. 
-	**Ara:** Rehber ve kılavuzları aratır.
-**Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
+	**Arama:** Rehber ve kılavuzları aratır.
+    **Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
+
+..  figure:: Images/step-5.png
+    :width: 100%
+    :align: center
 
 Destek Talebi Açma
 ----------------
 Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için sayfanın sol tarafında bulunan menü üzerinden **“Destek kaydı aç”** seçeneğini tıklayın.
+
 
 Memnuniyet Anketi Doldurma
 ----------------
