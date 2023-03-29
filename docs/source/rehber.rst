@@ -7,6 +7,7 @@ Rumeli E-Posta Hesabıyla Giriş Yapma
 ------------
 
 BTDestek sistemine Rumeli hesabı (@rumeli.edu.tr) ile giriş yapmak için “Google ile Giriş Yap” seçeneğine tıkladıktan sonra eğer daha önce giriş yaptıysanız Rumeli e-posta hesabınızı eğer giriş yapmadıysanız e-posta ve şifreyi giriniz.
+
 .. figure:: Images/login_edit.gif
    :width: 100%
    :align: center
@@ -15,6 +16,7 @@ BTDestek Arayüzü
 ----------------
 
 BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır.
+
 ..  figure:: Images/menu.png
     :align: center
 
@@ -60,10 +62,8 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
 
-.. list-table::
+.. list-table:: Destek Kaydı Alanları
    :header-rows: 1
-   :widths: 50 50
-
   * - Alan
     - Açıklama
   * - Tür
