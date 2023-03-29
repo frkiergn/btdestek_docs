@@ -100,8 +100,7 @@ Açılan destek talebini “Açılış” veya “Destek Kayıtları” üzerind
 
     *Açılış sayfasında bulunan destek kayıtları özet görünümü*
 
-Bakınız 
-:ref:`Talep Durumları`
+Bakınız :ref:`Talep Durumları`
 
 Destek talebinizi durumu ve açıklamalarını ve cevaplarını detaylı bir şekilde görüntülemek için sayfanın sol tarafında bulunan menüden “Destek kayıtları” seçeneğine tıklayın.
 
