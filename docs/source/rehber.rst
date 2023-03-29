@@ -58,7 +58,7 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
     :align: center
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
-.. list-table::
+.. list-table:: Destek Talebi Alanları
     :header-rows: 1
     -Alan
     -Açıklama
