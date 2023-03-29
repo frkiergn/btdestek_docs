@@ -19,7 +19,6 @@ BTDestek Arayüzü
 BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır.
 
 ..  figure:: Images/menu.png
-    :align: center
 
 
 **Açılış:** Açılan destek kayıtlarının özetini bu sayfada bulunur.
@@ -53,7 +52,9 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
 **SSS:** Bu alanda sizler için hazırlanmış olan rehber ve kullanım kılavuzları bulunur. 
 
       **Arama:** Rehber ve kılavuzları aratır.
+
       **Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
+
 
 ..  figure:: Images/step-5.png
     :width: 100%
@@ -69,6 +70,10 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
     :align: center
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
+
+..  figure:: Images/ticket/stage-2.png
+    :width: 80%
+    :align: center
 
 .. list-table:: Destek Kaydı Alanları
    :header-rows: 1
@@ -89,9 +94,6 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
   * - Oda numarası
     - Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
 
-..  figure:: Images/ticket/stage-2.png
-    :width: 80%
-    :align: center
 
 Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer eksik veya yanlış bir bilgi girildiyse talebiniz gönderilmez ve hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir sayfanın sağ altında bulunan bildirim görünür. Açılan destek talebiniz ayrıca e-posta olarak gönderilir.
 
@@ -176,14 +178,14 @@ Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan se
 
    * - **Derece** 
      - **Açıklama**
-   * - **1 yıldız:** 
+   * - **1 yıldız** 
      - Çök Kötü
-   * - **2 yıldız:** 
+   * - **2 yıldız** 
      - Kötü
-   * - **3 yıldız:** 
+   * - **3 yıldız** 
      - Ortalama
-   * - **4 yıldız:** 
+   * - **4 yıldız** 
      - İyi
-   * - **5 yıldız:** 
+   * - **5 yıldız** 
      - Çok İyi
 
