@@ -44,3 +44,18 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
 
 Memnuniyet Anketi Doldurma
 ----------------
+Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. Öneri ve şikayetlerinizi her talep kapatıldıktan sonra e-posta adresinize gelen e-posta iletisi üzerinden veya “Açılış” sayfasında bulunan memnuniyet anketi üzerinden 2 soruluk anket ile bize iletebilirsiniz. Ekibimiz gelen her cevabı değerlendirmektedir.
+
+Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan seçin.
+
+.. figure:: Images/ticket/stage-11.png
+   :width: 80%
+   :align: center
+
+Çıkan ekranda bulunan iki soruluk anketi cevapladıktan sonra (Notlar alanını doldurmak isteğe bağlıdır.)
+
+**1 yıldız:** Çök Kötü
+**2 yıldız:** Kötü
+**3 yıldız:** Ortalama
+**4 yıldız:** İyi
+**5 yıldız:** Çok İyi
