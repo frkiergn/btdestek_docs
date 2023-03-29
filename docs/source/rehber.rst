@@ -86,8 +86,67 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
     :align: center
 
 Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer eksik veya yanlış bir bilgi girildiyse talebiniz gönderilmez ve hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir sayfanın sağ altında bulunan bildirim görünür. Açılan destek talebiniz ayrıca e-posta olarak gönderilir.
+
 ..  figure:: Images/ticket/stage-3.png
     :align: center
+
+Memnuniyet Anketi Doldurma
+----------------
+
+Açılan destek talebini “Açılış” veya “Destek Kayıtları” üzerinden görüntüleyebilirsiniz.
+
+..  figure:: Images/ticket/stage-4.png
+    :align: center
+
+    *Açılış sayfasında bulunan destek kayıtları özet görünümü*
+
+Bakınız :ref:`Talep Durumları`
+
+Destek talebinizi durumu ve açıklamalarını ve cevaplarını detaylı bir şekilde görüntülemek için sayfanın sol tarafında bulunan menüden “Destek kayıtları” seçeneğine tıklayın.
+
+..  figure:: Images/ticket/stage-5.png
+    :align: center
+
+Görüntülemek istediğiniz destek kaydı başlık sütunundan seçin.
+
+..  figure:: Images/ticket/stage-5-1.gif
+    :align: center
+
+..  figure:: Images/ticket/stage-6-1.png
+    :align: center
+
+        #. Talebinizin açıklaması ve veridiniz cevaplar mesaj alanın sol tarafında bulunur.
+        #. Destek ekibinin talebinize vermiş olduğunuz cevaptır. Mesajı alanın sağ tarafında bulunur.
+        #. Destek talebinizin bilgi ve detayları bulunmaktadır.
+        #. Destek talebine cevap vermek veya belge eklemek için kullanılır.
+
+Talebe cevap vermek isterseniz “Yanıt” seçeneğini seçtikten sonra mesaj alanın sağ tarafında çıkan mesaj balonu üzerinden cevaplayabilir ve belge ekleyebilir ardından “Ekle” seçeneğine tıkladıktan sonra cevabı gönderebilirsiniz.
+
+..  figure:: Images/ticket/stage-6-2.png
+    :align: center
+
+Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulunan ok işaretine tıkladıktan sonra “Belge ekle” seçeneğine tıkladıktan sonra mesaj alanın sağ tarafında bulunan mesaj balonunda belge ekleyebilirsiniz.
+
+..  figure:: Images/ticket/stage-8.gif
+    :align: center
+
+
+Talep Durumları
+----------------
+
+.. list-table:: Talep Durumları
+   :header-rows: 1
+
+   * - **Yeni** 
+     - Destek talebinin açılmıştır.
+   * - **İşleniyor (atanmış)** 
+     - Destek talebini ilgili ekibimize gönderilmiştir.
+   * - **İşleniyor (planlanmış)** 
+     - Destek talebiniz ekibimize gönderilmiş ve işlem sırasına alınmış veya talebiniz hazırlanıyor.
+   * - **Bekleyen** 
+     - Destek talebiniz bekleyen olarak işaretlenmişse ekimizin talebiniz çözebilmek için ihtiyaçların karşılanmasını için alınır ve size bildirilir. Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
+   * - **Çözümlenmiş/Kapatılmış** 
+     - Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür. Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
 
 Memnuniyet Anketi Doldurma
 ----------------
@@ -101,13 +160,19 @@ Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan se
 
 Çıkan ekranda bulunan iki soruluk anketi cevapladıktan sonra (Notlar alanını doldurmak isteğe bağlıdır.)
 
-**1 yıldız:** Çök Kötü
+.. list-table:: Değerlendirme
+   :header-rows: 1
 
-**2 yıldız:** Kötü
-
-**3 yıldız:** Ortalama
-
-**4 yıldız:** İyi
-
-**5 yıldız:** Çok İyi
+   * - **Derece** 
+     - **Açıklama**
+   * - **1 yıldız:** 
+     - Çök Kötü
+   * - **2 yıldız:** 
+     - Kötü
+   * - **3 yıldız:** 
+     - Ortalama
+   * - **4 yıldız:** 
+     - İyi
+   * - **5 yıldız:** 
+     - Çok İyi
 
