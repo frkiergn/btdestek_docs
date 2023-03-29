@@ -60,20 +60,13 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
 
-    :Tür:
-    - Talebinizin hangi türde olduğunu belirtir. Eğer bir donanımda sorun veya arıza ile karşılaştıysanız “arıza”. Kurulum, tanımlama ve talepler için “istek” olarak seçebilirsiniz.
-    * - Kategori
-    - Destek talebinin donanım, internet, yazılım vb. alanında belirtir.
-    * - İlişkilendirilmiş ögeler
-    - Üniversitemizin size tahsis etmiş olduğu ve etkilenen bilgisayar, monitör, telefon vb. cihazınızı seçebilirsiniz.
-    * - Konum
-    - Destek talebi olarak bulunduğunuz yerleşkeyi belirtin.
-    * - Başlık
-    - Talebiniz ne olduğunu tek cümle ile belirtebilirsiniz. Örnek: İnternet arızası
-    * - Açıklama
-    - Talebinizi detaylı bir şekilde bu alanda açıklayabilirsiniz. Talebiniz hakkında fazla detay verebilirseniz ekibimiz talebiniz anlayabilir ve daha hızlı bir şekilde çözebilir.
-    * - Oda numarası
-    - Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
+    :Tür:Talebinizin hangi türde olduğunu belirtir. Eğer bir donanımda sorun veya arıza ile karşılaştıysanız “arıza”. Kurulum, tanımlama ve talepler için “istek” olarak seçebilirsiniz.
+    :Kategori:Destek talebinin donanım, internet, yazılım vb. alanında belirtir.
+    :İlişkilendirilmiş ögeler:Üniversitemizin size tahsis etmiş olduğu ve etkilenen bilgisayar, monitör, telefon vb. cihazınızı seçebilirsiniz.
+    :Konum:Destek talebi olarak bulunduğunuz yerleşkeyi belirtin.
+    :Başlık:Talebiniz ne olduğunu tek cümle ile belirtebilirsiniz. Örnek: İnternet arızası
+    :Açıklama:Talebinizi detaylı bir şekilde bu alanda açıklayabilirsiniz. Talebiniz hakkında fazla detay verebilirseniz ekibimiz talebiniz anlayabilir ve daha hızlı bir şekilde çözebilir.
+    :Oda numarası:Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
 
 ..  figure:: Images/ticket/stage-2.png
     :width: 80%
