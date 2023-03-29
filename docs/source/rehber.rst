@@ -19,6 +19,20 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır
         :alt: Doğrulama Görseli
         :target: https://btdestek.rumeli.edu.tr
 
-        This is the image caption
+**Açılış:** Açılan destek kayıtlarının özetini bu sayfada bulunur.
 
+..  figure:: Images/menu.png
+        :alt: Doğrulama Görseli
+        :target: https://btdestek.rumeli.edu.tr
 
+**Destek Kaydı Aç:** İstek ve arıza için destek talebi açmanızı sağlar.
+
+..  figure:: Images/menu.png
+        :alt: Doğrulama Görseli
+        :target: https://btdestek.rumeli.edu.tr
+
+**Formlar:** Bilgi İşlem Daire Başkanlığı tarafından oluşturulmuş anket, talep veya formlar bulunmaktadır.
+**Destek Kayıtları:** Açılan destek kayıtları bu alanda görüntülenir.
+**SSS:** Bu alanda sizler için hazırlanmış olan rehber ve kullanım kılavuzları bulunur. 
+	**Ara:** Rehber ve kılavuzları aratır.
+**Göz at:** Tüm rehber ve kılavuzlar bu alanda görünür.
