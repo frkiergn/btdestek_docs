@@ -71,11 +71,8 @@ Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için
 
 Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunmaktadır. (*) işareti olan alanların girilmesi zorunlu olduğunu belirtir.
 
-..  figure:: Images/ticket/stage-2.png
-    :width: 80%
-    :align: center
 
-.. list-table::
+.. list-table:: Destek Kaydı Alanları
    :header-rows: 1
   * - Alan
     - Açıklama
@@ -94,6 +91,9 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
   * - Oda numarası
     - Talep olarak bulunduğunuz veya destek istediğiniz odayı oda numarası olarak (genellikle odanın girişinde bulunur.) belirtilmelidir. Eğer bulunduğunuz odanın oda numarasını belirtilmemiş ise referans verebilirsiniz. Örnek: Kütüphanenin karşısındaki oda
 
+..  figure:: Images/ticket/stage-2.png
+    :width: 80%
+    :align: center
 
 Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer eksik veya yanlış bir bilgi girildiyse talebiniz gönderilmez ve hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir sayfanın sağ altında bulunan bildirim görünür. Açılan destek talebiniz ayrıca e-posta olarak gönderilir.
 
