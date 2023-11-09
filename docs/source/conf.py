@@ -6,7 +6,7 @@ project = 'BTDestek'
 copyright = '2023, İstanbul Rumeli Üniversitesi'
 author = 'Furkan Ergin'
 
-release = '1.0.1'
+release = '1.0.0'
 version = '1.0.1'
 
 # -- General configuration
@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
