@@ -6,7 +6,7 @@ Rehber
 Kurumsal E-Posta Hesabıyla Giriş Yapma
 ------------
 
-BTDestek sistemine kurumsal e-posta hesabı **(@rumeli.edu.tr)** ile giriş yapmak için **“Google ile Giriş Yap”** seçeneğine tıkladıktan sonra, kurumsal e-posta hesabınızı seçebilir eğer giriş yapmadıysanız kurumsal e-posta adresinizi ve şifrenizi giriş yazarak giriş yapabilirsiniz.
+BTDestek sistemine kurumsal e-posta hesabı **(@rumeli.edu.tr)** ile giriş yapmak için **“Google ile Giriş Yap”** seçeneğine tıkladıktan sonra, kurumsal e-posta hesabınızı seçebilir eğer giriş yapmadıysanız kurumsal e-posta adresinizi ve şifrenizi yazarak giriş yapabilirsiniz.
 
 .. figure:: Images/login_edit.gif
    :width: 100%
