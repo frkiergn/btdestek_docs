@@ -3,10 +3,10 @@ Rehber
 
 .. _installation:
 
-Rumeli E-Posta Hesabıyla Giriş Yapma
+Kurumsal E-Posta Hesabıyla Giriş Yapma
 ------------
 
-BTDestek sistemine Rumeli hesabı (@rumeli.edu.tr) ile giriş yapmak için **“Google ile Giriş Yap”** seçeneğine tıkladıktan sonra eğer daha önce giriş yaptıysanız Rumeli e-posta hesabınızı eğer giriş yapmadıysanız e-posta ve şifreyi giriniz.
+BTDestek sistemine kurumsal e-posta hesabı **(@rumeli.edu.tr)** ile giriş yapmak için **“Google ile Giriş Yap”** seçeneğine tıkladıktan sonra, kurumsal e-posta hesabınızı seçebilir eğer giriş yapmadıysanız kurumsal e-posta adresinizi ve şifrenizi giriş yazarak giriş yapabilirsiniz.
 
 .. figure:: Images/login_edit.gif
    :width: 100%
@@ -16,7 +16,7 @@ BTDestek sistemine Rumeli hesabı (@rumeli.edu.tr) ile giriş yapmak için **“
 BTDestek Arayüzü
 ----------------
 
-BTDestek sayfasına girdikten sonra sayfanın sol tarafında menu bulunmaktadır.
+BTDestek sayfasına girdikten sonra sayfanın sol tarafında hızlı menü bulunmaktadır.
 
 ..  figure:: Images/menu.png
 
@@ -89,7 +89,7 @@ Gelen ekranda istek ve arıza destek talebiniz için alan metin alanları bulunm
     :width: 80%
     :align: center
 
-Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer eksik veya yanlış bir bilgi girildiyse talebiniz gönderilmez ve hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir sayfanın sağ altında bulunan bildirim görünür. Açılan destek talebiniz ayrıca e-posta olarak gönderilir.
+Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklayın. Eğer alanlara eksik veya hatalı bilgi girildiyse hata mesajı alırsınız. Gerekli alanları eksiksiz ve doğru bir şekilde girdikten sonra sayfanın sağ altında bulunan talebinizin oluşturulduğunu gösteren bildirim alanı görünür. Ek olarak açılan destek talebiniz ayrıca e-posta olarak gönderilir.
 
 ..  figure:: Images/ticket/stage-3.png
     :align: center
@@ -97,7 +97,7 @@ Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklay
 Açılan Destek Talebini Görüntüleme ve Cevaplama
 ----------------
 
-Açılan destek talebini “Açılış” veya “Destek Kayıtları” üzerinden görüntüleyebilirsiniz.
+Açılan destek talebini **“Açılış”** veya **“Destek Kayıtları”** üzerinden görüntüleyebilirsiniz.
 
 ..  figure:: Images/ticket/stage-4.png
     :align: center
@@ -112,7 +112,7 @@ Destek talebinizi durumu ve açıklamalarını ve cevaplarını detaylı bir şe
     :width: 100%
     :align: center
 
-Görüntülemek istediğiniz destek kaydı başlık sütunundan seçin.
+Görüntülemek istediğiniz destek kaydını başlık sütunundan seçin.
 
 ..  figure:: Images/ticket/stage-5-1.gif
     :width: 100%
@@ -127,7 +127,7 @@ Görüntülemek istediğiniz destek kaydı başlık sütunundan seçin.
         #. Destek talebinizin bilgi ve detayları bulunmaktadır.
         #. Destek talebine cevap vermek veya belge eklemek için kullanılır.
 
-Talebe cevap vermek isterseniz “Yanıt” seçeneğini seçtikten sonra mesaj alanın sağ tarafında çıkan mesaj balonu üzerinden cevaplayabilir ve belge ekleyebilir ardından “Ekle” seçeneğine tıkladıktan sonra cevabı gönderebilirsiniz.
+Talebe cevap vermek isterseniz **“Yanıt”** seçeneğini seçtikten sonra mesaj alanın sağ tarafında çıkan mesaj balonu üzerinden cevaplayabilir ve belge ekleyebilir ardından “Ekle” seçeneğine tıkladıktan sonra cevabı gönderebilirsiniz.
 
 ..  figure:: Images/ticket/stage-6-2.png
     :align: center
@@ -151,7 +151,7 @@ Talep Durumları
    * - **İşleniyor (planlanmış)** 
      - Destek talebiniz ekibimize gönderilmiş ve işlem sırasına alınmış veya talebiniz hazırlanıyor.
    * - **Bekleyen** 
-     - Destek talebiniz bekleyen olarak işaretlenmişse ekimizin talebiniz çözebilmek için ihtiyaçların karşılanmasını için alınır ve size bildirilir. Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
+     - Destek talebiniz bekleyen olarak işaretlenmişse ekibimiz talebiniz çözebilmek ve ihtiyaçların karşılanmasını için alınır ve size bildirilir. Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
    * - **Çözümlenmiş/Kapatılmış** 
      - Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür. Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
 
