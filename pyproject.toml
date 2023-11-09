@@ -5,4 +5,4 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "BTDestek"
 authors = [{name = "Furkan Ergin", email = "furkan.ergin@rumeli.edu.tr"}]
-dynamic = ["1.0.0", "İstanbul Rumeli Üniversitesi Bilgi İşlem Daire Başkanlığı"]
+dynamic = ["1.0.1", "İstanbul Rumeli Üniversitesi Bilgi İşlem Daire Başkanlığı"]
