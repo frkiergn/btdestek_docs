@@ -6,7 +6,7 @@ project = 'BTDestek'
 copyright = '2023, İstanbul Rumeli Üniversitesi'
 author = 'Furkan Ergin'
 
-release = '1.0'
+release = '1.0.1'
 version = '1.0.1'
 
 # -- General configuration
