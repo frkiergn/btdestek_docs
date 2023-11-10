@@ -1,10 +1,10 @@
 Rehber
-=====
+=========
 
 .. _installation:
 
 Kurumsal E-Posta Hesabıyla Giriş Yapma
-------------
+--------------------------------------
 
 BTDestek sistemine kurumsal e-posta hesabı **(@rumeli.edu.tr)** ile giriş yapmak için **“Google ile Giriş Yap”** seçeneğine tıkladıktan sonra, kurumsal e-posta hesabınızı seçebilir eğer giriş yapmadıysanız kurumsal e-posta adresinizi ve şifrenizi yazarak giriş yapabilirsiniz.
 
@@ -62,7 +62,7 @@ BTDestek sayfasına girdikten sonra sayfanın sol tarafında hızlı menü bulun
 
 
 Destek Talebi Açma
-----------------
+------------------
 Bilgi İşlem Daire Başkanlığı’na istek ve arıza talebinde bulunmak için sayfanın sol tarafında bulunan menü üzerinden **“Destek kaydı aç”** seçeneğini tıklayın.
 
 ..  figure:: Images/ticket/stage-1.png
@@ -95,7 +95,7 @@ Gerekli alanlar doldurulduktan sonra “İletiyi gönder” seçeneğine tıklay
     :align: center
 
 Açılan Destek Talebini Görüntüleme ve Cevaplama
-----------------
+-----------------------------------------------
 
 Açılan destek talebini **“Açılış”** veya **“Destek Kayıtları”** üzerinden görüntüleyebilirsiniz.
 
@@ -104,13 +104,14 @@ Açılan destek talebini **“Açılış”** veya **“Destek Kayıtları”** 
 
     *Açılış sayfasında bulunan destek kayıtları özet görünümü*
 
-Bakınız :ref:`Talep Durumları`
+Bakınız: :ref:`my-reference-label`
 
 Destek talebinizi durumu ve açıklamalarını ve cevaplarını detaylı bir şekilde görüntülemek için sayfanın sol tarafında bulunan menüden “Destek kayıtları” seçeneğine tıklayın.
 
 ..  figure:: Images/ticket/stage-5.png
     :width: 100%
     :align: center
+
 
 Görüntülemek istediğiniz destek kaydını başlık sütunundan seçin.
 
@@ -122,10 +123,11 @@ Görüntülemek istediğiniz destek kaydını başlık sütunundan seçin.
     :width: 100%
     :align: center
 
-        #. Talebinizin açıklaması ve veridiniz cevaplar mesaj alanın sol tarafında bulunur.
-        #. Destek ekibinin talebinize vermiş olduğunuz cevaptır. Mesajı alanın sağ tarafında bulunur.
-        #. Destek talebinizin bilgi ve detayları bulunmaktadır.
-        #. Destek talebine cevap vermek veya belge eklemek için kullanılır.
+   
+#. Talebinizin açıklaması ve veridiniz cevaplar mesaj alanın sol tarafında bulunur.
+#. Destek ekibinin talebinize vermiş olduğunuz cevaptır. Mesajı alanın sağ tarafında bulunur.
+#. Destek talebinizin bilgi ve detayları bulunmaktadır.
+#. Destek talebine cevap vermek veya belge eklemek için kullanılır.
 
 Talebe cevap vermek isterseniz **“Yanıt”** seçeneğini seçtikten sonra mesaj alanın sağ tarafında çıkan mesaj balonu üzerinden cevaplayabilir ve belge ekleyebilir ardından “Ekle” seçeneğine tıkladıktan sonra cevabı gönderebilirsiniz.
 
@@ -137,26 +139,31 @@ Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulun
 ..  figure:: Images/ticket/stage-8.gif
     :align: center
 
+.. _my-reference-label:
 
 Talep Durumları
 ----------------
 
 .. list-table:: Talep Durumları
-   :header-rows: 1
+   :header-rows: 0
 
    * - **Yeni** 
      - Destek talebinin açılmıştır.
    * - **İşleniyor (atanmış)** 
      - Destek talebini ilgili ekibimize gönderilmiştir.
    * - **İşleniyor (planlanmış)** 
-     - Destek talebiniz ekibimize gönderilmiş ve işlem sırasına alınmış veya talebiniz hazırlanıyor.
+     - | Destek talebiniz ekibimize gönderilmiş ve işlem sırasına 
+       | alınmış veya talebiniz hazırlanıyor.
    * - **Bekleyen** 
-     - Destek talebiniz bekleyen olarak işaretlenmişse ekibimiz talebiniz çözebilmek ve ihtiyaçların karşılanmasını için alınır ve size bildirilir. Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
+     - | Destek talebiniz bekleyen olarak işaretlenmişse ekibimiz talebiniz çözebilmek
+       | ve ihtiyaçların karşılanmasını için alınır ve size bildirilir.
+       | Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
    * - **Çözümlenmiş/Kapatılmış** 
-     - Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür. Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
+     - | Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür.
+       | Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
 
 Memnuniyet Anketi Doldurma
-----------------
+--------------------------
 Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. Öneri ve şikayetlerinizi her talep kapatıldıktan sonra e-posta adresinize gelen e-posta iletisi üzerinden veya “Açılış” sayfasında bulunan memnuniyet anketi üzerinden 2 soruluk anket ile bize iletebilirsiniz. Ekibimiz gelen her cevabı değerlendirmektedir.
 
 Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan seçin.

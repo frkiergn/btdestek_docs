@@ -2,12 +2,13 @@
 
 # -- Project information
 
-project = 'BTDestek'
+project = 'BTDestek Yardım Dökümanı'
 copyright = '2023, İstanbul Rumeli Üniversitesi'
 author = 'Furkan Ergin'
 
-release = '1.0.0'
-version = '1.0.1'
+
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration
 
