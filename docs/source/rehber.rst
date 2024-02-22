@@ -143,7 +143,7 @@ Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulun
 
 
 
-Destek Kaydı Kategoriler
+Destek Kaydı Kategorileri
 ----------------
 
 .. list-table:: Destek Kaydı Kategorileri
@@ -171,7 +171,6 @@ Destek Kaydı Kategoriler
       - İstek/Arıza
       -
     
-
 Talep Durumları
 ----------------
 
