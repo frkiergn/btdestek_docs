@@ -146,12 +146,18 @@ Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulun
 Destek Kaydı Kategoriler
 ----------------
 
-======================== ========
-Kategori                 Açıklama
-======================== ========
-Donanım                  
-======================== ========
-Network ve İnternet Bağlantısı
+.. list-table:: Title
+   :header-rows: 1
+
+    * - Kategori
+      - Talep Türü
+      - Açıklama
+    * - Donanım
+      - Arıza
+      -
+    * - Network ve İnternet Bağlantısı
+      - İstek/Arıza
+      -
 
 Talep Durumları
 ----------------
