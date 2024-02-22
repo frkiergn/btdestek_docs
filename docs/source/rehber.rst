@@ -141,6 +141,16 @@ Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulun
 
 .. _my-reference-label:
 
+Destek Kaydı Kategoriler
+----------------
+
+=========== ========
+Kategori    Açıklama
+=========== ========
+TEST        123
+=========== ========
+
+
 Talep Durumları
 ----------------
 
