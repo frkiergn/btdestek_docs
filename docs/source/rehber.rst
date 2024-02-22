@@ -146,7 +146,7 @@ Eğer sadece belge eklemek isterseniz “Yanıt” seçeneğinin sağında bulun
 Destek Kaydı Kategoriler
 ----------------
 
-.. list-table:: Title
+.. list-table:: Destek Kaydı Kategorileri
    :header-rows: 1
 
     * - Kategori
@@ -158,6 +158,19 @@ Destek Kaydı Kategoriler
     * - Network ve İnternet Bağlantısı
       - İstek/Arıza
       -
+    * - Operasyon
+      - İstek/Arıza
+      -
+    * - Yazılım ve Program Desteği
+      - İstek/Arıza
+      -
+    * - rumeli.edu.tr
+      - İstek/Arıza
+      -
+    * - webapp.rumeli.edu.tr
+      - İstek/Arıza
+      -
+    
 
 Talep Durumları
 ----------------
