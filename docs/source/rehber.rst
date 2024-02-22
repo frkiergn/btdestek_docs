@@ -155,8 +155,8 @@ Talep Durumları
      - | Destek talebiniz ekibimize gönderilmiş ve işlem sırasına 
        | alınmış veya talebiniz hazırlanıyor.
    * - **Bekleyen** 
-     - | Destek talebiniz bekleyen olarak işaretlenmişse ekibimiz talebiniz çözebilmek
-       | ve ihtiyaçların karşılanmasını için alınır ve size bildirilir.
+     - | Eğer destek talebiniz bekleme durumunda ise, ekibimiz talebinizi çözmek
+       | ve ihtiyaçlarınızı karşılaması sebebi ile alınmıştır.
        | Örnek: parça değişimi, sarf malzeme temini, teknik servise gönderilmesi vb.
    * - **Çözümlenmiş/Kapatılmış** 
      - | Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür.
@@ -164,7 +164,7 @@ Talep Durumları
 
 Memnuniyet Anketi Doldurma
 --------------------------
-Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. Öneri ve şikayetlerinizi her talep kapatıldıktan sonra e-posta adresinize gelen e-posta iletisi üzerinden veya “Açılış” sayfasında bulunan memnuniyet anketi üzerinden 2 soruluk anket ile bize iletebilirsiniz. Ekibimiz gelen her cevabı değerlendirmektedir.
+Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. Öneri ve şikayetlerinizi her talep kapatıldıktan sonra e-posta adresinize gelen e-posta iletisi üzerinden veya “Açılış” sayfasında bulunan memnuniyet anketi üzerinden 2 soruluk anket ile bize iletebilirsiniz. Ekibimiz her gelen cevabı değerlendirmektedir.
 
 Memnuniyet anketini doldurmak için destek talebinizin açıklama sütunundan seçin.
 
