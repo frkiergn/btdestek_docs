@@ -177,6 +177,7 @@ Talep Durumları
      - | Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür.
        | Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
 
+
 Memnuniyet Anketi Doldurma
 --------------------------
 Ekibimiz gelen bütün destek talepleri en hızlı bir şekilde çözmektedir. Öneri ve şikayetlerinizi her talep kapatıldıktan sonra e-posta adresinize gelen e-posta iletisi üzerinden veya “Açılış” sayfasında bulunan memnuniyet anketi üzerinden 2 soruluk anket ile bize iletebilirsiniz. Ekibimiz her gelen cevabı değerlendirmektedir.
