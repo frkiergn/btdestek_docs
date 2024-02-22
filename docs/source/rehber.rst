@@ -152,6 +152,7 @@ Destek Kaydı Kategorileri
     * - Kategori
       - Talep Türü
       - Açıklama
+      
     * - Donanım
       - Arıza
       -
