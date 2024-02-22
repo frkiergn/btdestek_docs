@@ -147,14 +147,28 @@ Destek Kaydı Kategorileri
 ----------------
 
 .. list-table:: Destek Kaydı Kategorileri
-   :header-rows: 1
-
+  :header-rows: 1
+  
     * - Kategori
       - Talep Türü
       - Açıklama
-      
     * - Donanım
       - Arıza
+      -
+    * - Network ve İnternet Bağlantısı
+      - İstek/Arıza
+      -
+    * - Operasyon
+      - İstek/Arıza
+      -
+    * - Yazılım ve Program Desteği
+      - İstek/Arıza
+      -
+    * - rumeli.edu.tr
+      - İstek/Arıza
+      -
+    * - webapp.rumeli.edu.tr
+      - İstek/Arıza
       -
     
 Talep Durumları
@@ -177,7 +191,6 @@ Talep Durumları
    * - **Çözümlenmiş/Kapatılmış** 
      - | Destek talebinizi ihtiyacınız karşılanmış veya sorununuz çözülmüştür.
        | Talebiniz bu duruma güncellenmesi durumda cevap alanı kapatılır.
-
 
 Memnuniyet Anketi Doldurma
 --------------------------
